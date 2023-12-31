@@ -5,11 +5,15 @@
         top: 26%;
     }
     .banner-right-con img[alt="banner-right-img"]{
-        width: 84vh;
+        width: 69vh;
     }
+    
     .banner-right-con::after {
         bottom: 80px;
         right: -39px;
+    }
+    .banner-social-icon {
+        left: 20px;
     }
 }
 
@@ -347,7 +351,7 @@
         font-size: 18px;
     }
     .banner-right-con img[alt="banner-right-img"] {
-        width: 60%;
+        width: 105%;
     }
     .best-award-con {
         left: 68px;
